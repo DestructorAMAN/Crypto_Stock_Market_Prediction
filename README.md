@@ -1,2 +1,7 @@
-# Crypto_Stock_Market_Prediction
-This repository contains a machine learning project focused on predicting the stock market trends of cryptocurrencies. By leveraging historical data and employing various machine learning techniques, this project aims to assist investors and traders in making informed decisions in the volatile world of cryptocurrency trading.
+# Quantifying Hype
+## Predicting crypto trading behavior with a combination of social emotion recognition, crypto price and traditional stock market influence
+
+**Contributors**
+* John Lau (Social Emotion Recognition)
+* Shih-Wen Su (traditional stock market analysis)
+* Suzana Ilic (Social Emotion Recognition)
